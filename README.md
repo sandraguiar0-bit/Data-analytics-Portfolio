@@ -44,7 +44,7 @@ CSV Source File with the data: https://github.com/sandraguiar0-bit/Data-analytic
 
 ---
 
-### The Role of Education Level in Youth Employment Integration
+### The Role of Education Level in Youth Employment Integration (2025)
 
 **Objective**  
 
@@ -66,7 +66,7 @@ Dissertation link: https://docs.google.com/document/d/13p0V0SB-85pdpeHFXZRArpfs8
 
 ---
 
-### Financial analysis of LVMH, Air Liquide, and CAC40 
+### Financial analysis of LVMH, Air Liquide, and CAC40 (2025)
 
 **Objective**  
 
