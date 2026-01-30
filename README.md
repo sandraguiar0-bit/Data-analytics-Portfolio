@@ -1,4 +1,4 @@
-# Data Analytics Portfolio - [Sandra Aguiar]
+# Data Analytics Portfolio - Sandra Aguiar
 
 Welcome to my data analytics portfolio!
 This repository showcases my main projects in data analysis since my very first project in 2024; all of the projects are related to finance and economics and were conceived using Python and Excel, and were written in french. 
@@ -44,7 +44,8 @@ This project explores the impact of educational attainment on youth employment a
 - Data visualization
 - Economic analysis 
 
-🔗 [View Project](./diplomes-insertion-jeunes)
+Excel Data: 
+Dissertation link: 
 
 ---
 
@@ -54,7 +55,7 @@ This project explores the impact of educational attainment on youth employment a
 In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. A CSV dataset containing multiple stock prices since the beginning of the year, sourced from Yahoo Finance, was provided for analysis and transformed into a structured Excel file containing fundamental statistics useful for financial insights (correlation matrix, standard deviations etc.), all using VBA. Once all of the data is reported onto Excel, the code then creates an HTML page containing a financial interpretation and analysis of the data. 
 
 
-**Key Skills:**
+**Key Skills**
 - Excel VBA
 - Data visualization
 - Market trend analysis 
@@ -63,7 +64,7 @@ In this project the goal was to analyze and compare stock market performance, vo
 
 ---
 
-## 📬 Contact
-- LinkedIn: [(https://www.linkedin.com/in/sandra-aguiar-b962392b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BhS6bRab6SKKdlnBZFQ2Iqg%3D%3D)]
+## Contact
+- LinkedIn: https://www.linkedin.com/in/sandra-aguiar-b962392b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BhS6bRab6SKKdlnBZFQ2Iqg%3D%3D
 - Email: [sandraguiar0@gmail.com]
 
