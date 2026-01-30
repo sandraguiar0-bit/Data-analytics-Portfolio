@@ -1,4 +1,4 @@
-# Data Analytics Portfolio - Sandra Aguiar
+# Data Analytics Portfolio 
 
 Welcome to my data analytics portfolio!
 This repository showcases my main projects in data analysis since my very first project in 2024. All projects focus on financial and economic analysis using tools such as Excel, Python, and VBA, and were written in French.
