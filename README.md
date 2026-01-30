@@ -36,7 +36,7 @@ A complete Python code was developed to:
 
 **Links**
 
-Google Colab code: https://docs.google.com/spreadsheets/d/1D7wOZ0-TAfGSs3RdJcA22zSLn6WfQXNOveeYN1YI_Ss/edit?usp=sharing
+Google Colab code: https://colab.research.google.com/drive/1Tp_pVnY81GP7oPruRa_wOrwD_VY2KY95?usp=sharing
 
 CSV Source File with the data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/TOTAL%20FINANCE%20L1.csv
 
