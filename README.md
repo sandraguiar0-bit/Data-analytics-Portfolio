@@ -62,11 +62,11 @@ In this project the goal was to analyze and compare stock market performance, vo
 - Market trend analysis 
 
 CSV Source file with tha data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Data-Exam-L1-2026.csv
-Excel file with the Macro: 
+Excel file with the Macro: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Projet_VBA_SANDRA.xlsm
 
 
-If you are on Macbook, before running the code, make sure that the CSV file does not open on Numbers (which it normally is, by default), it should be on excel. Once that is in place, you can run the code and select the CSV file as instructed and the rest of the analysis will follow!
-
+If you are on Macbook, before running the code, make sure that the CSV file does not open on Numbers (which it normally is, by default), it should be on excel. 
+Once that is done, you can run the macro ("Projet_VBA2025") and select the CSV file; the rest of the automized analysis will follow!
 
 
 ---
