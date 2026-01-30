@@ -61,7 +61,7 @@ In this project the goal was to analyze and compare stock market performance, vo
 - Data visualization
 - Market trend analysis 
 
-CSV Source file with tha data: 
+CSV Source file with tha data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Data-Exam-L1-2026.csv
 Excel file with the Macro: 
 
 
