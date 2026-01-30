@@ -1,7 +1,7 @@
 # Data Analytics Portfolio - [Sandra Aguiar]
 
 Welcome to my data analytics portfolio!
-This repository showcases my main projects in data analysis since my very first project in 2024; all of the projects are related to finance and economics and were conceived using Python and Excel. 
+This repository showcases my main projects in data analysis since my very first project in 2024; all of the projects are related to finance and economics and were conceived using Python and Excel, and were written in french. 
 
 ## Tools & Skills
 - Financial Data Analysis
@@ -34,7 +34,7 @@ A complete Python code was developed to:
 
 ---
 
-### 2️⃣ Le rôle des diplômes sur l’insertion professionnelles des jeunes en France
+### The Role of Education Level in Youth Employment Integration
 **Objective**  
 
 This project explores the impact of educational attainment on youth employment and professional integration over time in France, using Data derived from the INSEE Database (https://www.insee.fr/fr/metadonnees/source/operation/s2127/presentation). After restructuring the data and creating graphs I then wrote a dissertation around this subject. The dissertation aims to assess whether career-oriented initial training effectively improves employability, and to what extent different education levels influence access to stable employment. Specifically, I examined whether obtaining a two-year post-secondary degree such as the _BTS (Brevet de Technologie Supérieur)_ enhances employability or, conversely, limits career opportunities, and whether pursuing higher education significantly increases the likelihood of securing stable, long-term employment.
