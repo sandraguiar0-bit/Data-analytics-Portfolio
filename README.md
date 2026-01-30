@@ -31,7 +31,7 @@ A complete Python code was developed to:
 - Python (Google Colab)
 
 Google Colab code: https://docs.google.com/spreadsheets/d/1D7wOZ0-TAfGSs3RdJcA22zSLn6WfQXNOveeYN1YI_Ss/edit?usp=sharing
-CSV Source File with the data: 
+CSV Source File with the data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/TOTAL%20FINANCE%20L1.csv
 
 ---
 
@@ -53,7 +53,7 @@ Dissertation link: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/
 ### Financial analysis of LVMH, Air Liquide, and CAC40 
 **Objective**  
 
-In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. A CSV dataset containing multiple stock prices since the beginning of the year, sourced from Yahoo Finance, was provided for analysis and transformed into a structured Excel file containing fundamental statistics useful for financial insights (correlation matrix, standard deviations etc.), all using VBA. Once all of the data is reported onto Excel, the code then creates an HTML page containing a financial interpretation and analysis of the data. 
+In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. The goal is to A CSV dataset containing multiple stock prices since the beginning of the year, sourced from Yahoo Finance, was provided for analysis and transformed into a structured Excel file containing fundamental statistics useful for financial insights (correlation matrix, standard deviations etc.), all using VBA. Once all of the data is reported onto Excel, the code then creates an HTML page containing a financial interpretation and analysis of the data. The goal of the report is to provide a clear investment recommendation: whether Air Liquide or LVMH stock should be purchased at the current time.
 
 
 **Key Skills**
@@ -61,7 +61,13 @@ In this project the goal was to analyze and compare stock market performance, vo
 - Data visualization
 - Market trend analysis 
 
-🔗 [View Project](./analyse-boursiere)
+CSV Source file with tha data: 
+Excel file with the Macro: 
+
+
+If you are on Macbook, before running the code, make sure that the CSV file does not open on Numbers (which it normally is, by default), it should be on excel. Once that is in place, you can run the code and select the CSV file as instructed and the rest of the analysis will follow!
+
+
 
 ---
 
