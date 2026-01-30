@@ -38,7 +38,8 @@ A complete Python code was developed to:
 
 Google Colab code: https://colab.research.google.com/drive/1Tp_pVnY81GP7oPruRa_wOrwD_VY2KY95?usp=sharing
 
-CSV Source File with the data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/TOTAL%20FINANCE%20L1.csv
+CSV Source File with the data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/TOTAL%20FINANCE%20L1.csv 
+  (to download before running the code)
 
 ---
 
@@ -80,6 +81,7 @@ In this project the goal was to analyze and compare stock market performance, vo
 **Links**
 
 CSV Source file with tha data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Data-Exam-L1-2026.csv
+    (to download before running the code)
 
 Excel file with the Macro: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Projet_VBA_SANDRA.xlsm
 
