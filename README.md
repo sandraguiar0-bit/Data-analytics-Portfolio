@@ -80,5 +80,5 @@ If you are using macOS, ensure the CSV file opens in Excel (not Numbers) before 
 
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/sandra-aguiar-b962392b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BhS6bRab6SKKdlnBZFQ2Iqg%3D%3D
-- Email: [sandraguiar0@gmail.com]
+- Email: sandraguiar0@gmail.com
 
