@@ -1,12 +1,15 @@
 # Data Analytics Portfolio - Sandra Aguiar
 
 Welcome to my data analytics portfolio!
-This repository showcases my main projects in data analysis since my very first project in 2024; all of the projects are related to finance and economics and were conceived using Python and Excel, and were written in french. 
+This repository showcases my main projects in data analysis since my very first project in 2024. All projects focus on financial and socio-economic analysis using tools such as Excel, Python, and VBA, and were originally written in French.
 
 ## Tools & Skills
 - Financial Data Analysis
 - Socio-economic data analysis
 - Statistical Analysis
+- Data Visualization
+- Excel (VBA)
+- Python (Google Colab)
 
 ---
 
@@ -62,16 +65,16 @@ In this project the goal was to analyze and compare stock market performance, vo
 - Market trend analysis 
 
 CSV Source file with tha data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Data-Exam-L1-2026.csv
+
 Excel file with the Macro: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Projet_VBA_SANDRA.xlsm
 
 
-If you are on Macbook, before running the code, make sure that the CSV file does not open on Numbers (which it normally is, by default), it should be on excel. 
-Once that is done, you can run the macro ("Projet_VBA2025") and select the CSV file; the rest of the automized analysis will follow!
+PS: If you are on Macbook, before running the code, make sure that the CSV file does not open on Numbers (which it normally is, by default), it should be on excel. Once that is done, you can run the macro ("Projet_VBA2025") and select the CSV file; the rest of the automized analysis will follow!
 
 
 ---
 
-## Contact
+## Contacts
 - LinkedIn: https://www.linkedin.com/in/sandra-aguiar-b962392b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BhS6bRab6SKKdlnBZFQ2Iqg%3D%3D
 - Email: [sandraguiar0@gmail.com]
 
