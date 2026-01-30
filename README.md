@@ -3,14 +3,14 @@
 Welcome to my data analytics portfolio!
 This repository showcases my main projects in data analysis since my very first project in 2024; all of the projects are related to finance and economics and were conceived using Python and Excel. 
 
-## 🛠 Tools & Skills
+## Tools & Skills
 - Financial Data Analysis
 - Socio-economic data analysis
 - Statistical Analysis
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### TOTALFINANCE — Financial Performance Analysis
 **Objective**  
@@ -35,21 +35,21 @@ A complete Python code was developed to:
 ---
 
 ### 2️⃣ Le rôle des diplômes sur l’insertion professionnelles des jeunes en France
-**Objective:**  
+**Objective**  
 
-The project aims to demonstrate the impact of the diploma on the professional integration and trajectory of young people in France using Data derived from the INSEE Database (https://www.insee.fr/fr/metadonnees/source/operation/s2127/presentation).
+This project explores the impact of educational attainment on youth employment and professional integration over time in France, using Data derived from the INSEE Database (https://www.insee.fr/fr/metadonnees/source/operation/s2127/presentation). After restructuring the data and creating graphs I then wrote a dissertation around this subject. The dissertation aims to assess whether career-oriented initial training effectively improves employability, and to what extent different education levels influence access to stable employment. Specifically, I examined whether obtaining a two-year post-secondary degree such as the _BTS (Brevet de Technologie Supérieur)_ enhances employability or, conversely, limits career opportunities, and whether pursuing higher education significantly increases the likelihood of securing stable, long-term employment.
 
-**Key Skills:**
+**Key Skills**
 - Data cleaning
-- Statistical insights
 - Data visualization
+- Economic analysis 
 
 🔗 [View Project](./diplomes-insertion-jeunes)
 
 ---
 
-### 3️⃣ Financial analysis of LVMH, Air Liquide, and CAC40 
-**Objective:**  
+### Financial analysis of LVMH, Air Liquide, and CAC40 
+**Objective**  
 
 In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. A CSV dataset containing multiple stock prices since the beginning of the year, sourced from Yahoo Finance, was provided for analysis and transformed into a structured Excel file containing fundamental statistics useful for financial insights (correlation matrix, standard deviations etc.), all using VBA. Once all of the data is reported onto Excel, the code then creates an HTML page containing a financial interpretation and analysis of the data. 
 
