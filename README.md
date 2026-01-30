@@ -55,7 +55,8 @@ This project explores the impact of educational attainment on youth employment a
 **Links**
 
 Excel Data: https://docs.google.com/spreadsheets/d/1D7wOZ0-TAfGSs3RdJcA22zSLn6WfQXNOveeYN1YI_Ss/edit?usp=sharing
-Dissertation link: Le rôle du diplôme dans le chômage et l’insertion des jeunes-2.pdf
+
+Dissertation link: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Le%20rôle%20du%20diplôme%20dans%20le%20chômage%20et%20l’insertion%20des%20jeunes-2.pdf
 
 
 ---
