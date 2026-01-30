@@ -1,4 +1,4 @@
-# Data Analytics Portfolio 
+# Data Analytics Portfolio - Sandra Aguiar
 
 Welcome to my data analytics portfolio!
 This repository showcases my main projects in data analysis since my very first project in 2024. All projects focus on financial and economic analysis using tools such as Excel, Python, and VBA, and were written in French.
@@ -17,6 +17,7 @@ This repository showcases my main projects in data analysis since my very first 
 ## Projects
 
 ### TOTALFINANCE: Financial Performance Analysis (2024)
+
 **Objective**  
 
 This project analyzes the financial performance of the Energy Market, taking a close look at TotalEnergies, Shell, and British Petroleum (BP), but also looking to compare it to the Euro Stoxx 50 index using historical market data from Yahoo Finance (from 01/01/2023 to 31/12/2023).
@@ -44,11 +45,13 @@ CSV Source File with the data: https://github.com/sandraguiar0-bit/Data-analytic
 ---
 
 ### The Role of Education Level in Youth Employment Integration
+
 **Objective**  
 
 This project explores the impact of educational attainment on youth employment and professional integration over time in France, using Data derived from the INSEE Database. After restructuring the data and creating graphs, I wrote a dissertation around this subject. The dissertation aims to assess whether career-oriented initial training effectively improves employability, and to what extent different education levels influence access to stable employment. Specifically, I examined whether obtaining a two-year post-secondary degree such as the _BTS (Brevet de Technologie Supérieur)_ enhances employability or, conversely, limits career opportunities, and whether pursuing higher education significantly increases the likelihood of securing stable, long-term employment.
 
 **Key Skills**
+
 - Data cleaning
 - Data visualization
 - Economic analysis 
@@ -64,23 +67,25 @@ Dissertation link: https://docs.google.com/document/d/13p0V0SB-85pdpeHFXZRArpfs8
 ---
 
 ### Financial analysis of LVMH, Air Liquide, and CAC40 
+
 **Objective**  
 
-In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. A CSV dataset containing historical stock prices from Yahoo Finance was provided and transformed into a structured Excel file using VBA automation. The Excel macro:
+In this project the goal was to analyze and compare stock market performance, and trends of **LVMH, CAC40, and Air Liquide**. A CSV dataset containing historical stock prices from Yahoo Finance was provided and transformed into a structured Excel file using VBA automation. The Excel macro:
 - Cleans and restructures the dataset
 - Computes key financial indicators (correlation matrix, volatility, standard deviation, trends)
 - Automatically generates visual charts
-- Produces an HTML financial analysis report
+- Produces a HTML financial analysis report
 
 
 **Key Skills**
+
 - Excel VBA
 - Data visualization
 - Market trend analysis 
 
 **Links**
 
-CSV Source file with tha data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Data-Exam-L1-2026.csv
+CSV Source file with the data: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Data-Exam-L1-2026.csv
     (to download before running the code)
 
 Excel file with the Macro: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Projet_VBA_SANDRA.xlsm
