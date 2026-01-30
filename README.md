@@ -56,7 +56,11 @@ Dissertation link: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/
 ### Financial analysis of LVMH, Air Liquide, and CAC40 
 **Objective**  
 
-In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. The goal is to A CSV dataset containing multiple stock prices since the beginning of the year, sourced from Yahoo Finance, was provided for analysis and transformed into a structured Excel file containing fundamental statistics useful for financial insights (correlation matrix, standard deviations etc.), all using VBA. Once all of the data is reported onto Excel, the code then creates an HTML page containing a financial interpretation and analysis of the data. The goal of the report is to provide a clear investment recommendation: whether Air Liquide or LVMH stock should be purchased at the current time.
+In this project the goal was to analyze and compare stock market performance, volatility, and trends of **LVMH, CAC40, and Air Liquide**. A CSV dataset containing historical stock prices from Yahoo Finance was provided and transformed into a structured Excel file using VBA automation. The Excel macro:
+- Cleans and restructures the dataset
+- Computes key financial indicators (correlation matrix, volatility, standard deviation, trends)
+- Automatically generates visual charts
+- Produces an HTML financial analysis report
 
 
 **Key Skills**
@@ -68,9 +72,8 @@ CSV Source file with tha data: https://github.com/sandraguiar0-bit/Data-analytic
 
 Excel file with the Macro: https://github.com/sandraguiar0-bit/Data-analytics-Portfolio/blob/main/Projet_VBA_SANDRA.xlsm
 
-
-PS: If you are on Macbook, before running the code, make sure that the CSV file does not open on Numbers (which it normally is, by default), it should be on excel. Once that is done, you can run the macro ("Projet_VBA2025") and select the CSV file; the rest of the automized analysis will follow!
-
+Note (Mac users):
+If you are using macOS, ensure the CSV file opens in Excel (not Numbers) before running the macro. Then run the macro "Projet_VBA2025", select the CSV file, and the automated analysis will execute.
 
 ---
 
